@@ -1,0 +1,45 @@
+# Local configuration files
+**/.claude/settings.local.json
+
+# Environment files
+**/.env
+**/.env.*
+
+# Build outputs
+**/.next/
+**/node_modules/
+**/dist/
+**/build/
+
+# Temporary files
+**/nul
+
+# IDE files
+**/.vscode/
+**/.idea/
+**/.DS_Store
+
+# OS files
+**/Thumbs.db
+**/*.swp
+**/*.swo
+**/*~
+
+# Log files
+**/*.log
+
+# Dependency directories
+**/node_modules/
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+**/.venv/
+**/venv/
+**/ENV/
+**/env/
+**/*.egg-info/
+**/.pytest_cache/
+**/coverage/
+**/htmlcov/

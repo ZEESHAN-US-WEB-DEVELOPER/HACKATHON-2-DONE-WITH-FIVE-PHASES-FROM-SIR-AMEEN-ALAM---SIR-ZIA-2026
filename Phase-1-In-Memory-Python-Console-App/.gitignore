@@ -1,0 +1,41 @@
+# Python build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dylib
+
+# Virtual environments
+.venv/
+venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
+
+# UV/pytest caches
+.uv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs and local configs
+*.log
+*.local.json
+.env*
+
+# Tests and behavior recordings
+tests/.pytest_cache/
+recordings/
+
